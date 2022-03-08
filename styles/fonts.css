@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+
+.space-l {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 300;
+}
+
+.space-r {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 400;
+}
+
+.space-m {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.space-sb {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+}
+
+.space-b {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+}
